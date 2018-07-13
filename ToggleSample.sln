@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure", "Infrastructure\Infrastructure.csproj", "{CEB2DA2B-841D-4562-ACEE-B68FD8777221}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToggleConsole", "ToggleConsole\ToggleConsole.csproj", "{BD65B167-1185-4920-AF1E-C9AB25219814}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToggleWeb", "ToggleWeb\ToggleWeb.csproj", "{04AB200D-BE22-4F23-9C59-FECC1F055D74}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEB2DA2B-841D-4562-ACEE-B68FD8777221}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEB2DA2B-841D-4562-ACEE-B68FD8777221}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEB2DA2B-841D-4562-ACEE-B68FD8777221}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEB2DA2B-841D-4562-ACEE-B68FD8777221}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD65B167-1185-4920-AF1E-C9AB25219814}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD65B167-1185-4920-AF1E-C9AB25219814}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD65B167-1185-4920-AF1E-C9AB25219814}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD65B167-1185-4920-AF1E-C9AB25219814}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04AB200D-BE22-4F23-9C59-FECC1F055D74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04AB200D-BE22-4F23-9C59-FECC1F055D74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04AB200D-BE22-4F23-9C59-FECC1F055D74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04AB200D-BE22-4F23-9C59-FECC1F055D74}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
